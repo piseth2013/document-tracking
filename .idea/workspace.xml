@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9366ad6b-3b42-448d-a53c-5de4355781a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/client/.bolt/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.bolt/prompt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/components.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/temple-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Auth/LoginForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Documents/DocumentCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Documents/DocumentEditor.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Documents/DocumentList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Documents/NewDocumentForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Layout/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Layout/MainLayout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Layout/Sidebar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/ui/alert.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/ui/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/ui/card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/ui/input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/ui/label.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/utils/dateUtils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/context/AppContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/data/data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/data/mockData.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/lib/api.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/lib/db.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/lib/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/models/Document.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Dashboard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/types/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/vite-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/tsconfig.node.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vite.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/db/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/middleware/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/routes/userRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jchanthy&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/piseth2013/document-tracking.git&quot;,
+    &quot;accountId&quot;: &quot;297488b9-a68b-444d-807d-79ad5f0f64e2&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2o69XmKtlEEnDUHj4uRSgrVTHmz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "#5 on chanthy-dev",
+    "last_opened_file_path": "D:/projects/Piseth/document-tracking/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "ts.external.directory.path": "D:\\projects\\Piseth\\document-tracking\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\Piseth\document-tracking\public" />
+      <recent name="D:\projects\Piseth\document-tracking\app\dashboard\users" />
+      <recent name="D:\projects\Piseth\document-tracking\app\ui" />
+      <recent name="D:\projects\Piseth\document-tracking\app\dashboard\users\create" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17890.13" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9366ad6b-3b42-448d-a53c-5de4355781a1" name="Changes" comment="" />
+      <created>1730179199549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730179199549</updated>
+      <workItem from="1730179201198" duration="6256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

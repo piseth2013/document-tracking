@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Create User</title>
+</head>
+<body>
+<h1>Create New User</h1>
+<form id="userForm">
+    <label>Username:<br /><input type="text" id="username" required /></label><br />
+    <label>Password:<br /><input type="password" id="password" required /></label><br />
+    <label>Role:<br />
+        <select id="role">
+            <option value="user">User</option>
+            <option value="admin">Admin</option>
+        </select>
+    </label><br /><br />
+    <button type="submit">Create User</button>
+</form>
+
+<p id="message"></p>
+
+<script>
+    const form = document.getElementById('userForm');
+    form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const data = {
+            username: document.getElementById('username').value,
+            password: document.getElementById('password').value,
+            role: document.getElementById('role').value
+        };
+
+        try {
+            const res = await fetch('/api/users/register', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(data)
+            });
+            const result = await res.json();
+            document.getElementById('message').textContent = result.message;
+        } catch (err) {
+            document.getElementById('message').textContent = 'Error creating user';
+        }
+    });
+</script>
+</body>
+</html>
